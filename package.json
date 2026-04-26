@@ -1,0 +1,12 @@
+{
+  "name": "springboard-mongo-operations",
+  "version": "1.0.0",
+  "private": true,
+  "main": "operations.js",
+  "scripts": {
+    "start": "node operations.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
